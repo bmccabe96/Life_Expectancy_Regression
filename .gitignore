@@ -148,3 +148,4 @@ config.py
 
 # csv or data files
 *.csv 
+*.xlsx

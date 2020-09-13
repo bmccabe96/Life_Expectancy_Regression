@@ -11,7 +11,7 @@ In this repository there are four notebooks:
 
 ![Image](life_expect_by_status.png?raw=true)
 
-![Image](life_exp_by_alcohol.png?raw=true)
+![Image](life_exp_by_alc.png?raw=true)
 
 # Models
 

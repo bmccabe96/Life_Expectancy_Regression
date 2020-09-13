@@ -21,11 +21,15 @@ We identified three key features with an effect on our model:
 
   * **Schooling**: We found that each additional year of schooling adds 0.78 years to one's life expectancy.
   * **Income Composition of Resources (ICR)**: Also referred to as Human Development Index, it incorporates three main ideas: (1) income per capita, (2) education, and (3) life expectancy. While our schooling feature accounts for the second point, our tests showed that they are both significant enough to include in our final model. Increasing ICR by one point adds 6.7 years to one's life expectancy. We can begin to see that increasing access to schooling can affect ICR and, in turn, affect life expectancy.
-  * **Incidence of HIV/AIDs**: Incidence of HIV/AIDS in a country had the strongest negative affect on life expectancy. With each incidence of HIV/AIDS, life expectancy decreases by 4.2 years. 
+  * **Incidence of HIV/AIDS**: Incidence of HIV/AIDS in a country had the strongest negative effect on life expectancy. With each incidence of HIV/AIDS, life expectancy decreases by 4.2 years. 
   
 # Conclusion
 
+Based on our model, country leaders should focus their efforts on the following:
 
+  * **Increase access to schooling.** Our model shows that access to education is connected to the two strongest predictors of life expectancy. Therefore, increase access to education can positively affect ICR and Incidence of HIV/AIDS. For instance, increasing schooling may lead to higher income for the population which in turn will inflate the ICR score of a country. Further, educating the population on safer sex practices will reduce the incidence of HIV/AIDS and increase life expectancy. 
+  * **Increase income per capita.** Our strongest positive predictor of life expectancy was ICR which includes a measure of income per capita and schooling. Not only is it important to increase access to schooling for the reasons stated above, but focus on increasing income per capita. This can be done a number of way, including increasing the minimum wage, creating new jobs, and/or instating universal basic income. 
+  * **Decrease Incidence of HIV/AIDS.** This can be done through educating the populace on the risks of unsafe sex (STIs) and HIV/AIDS prevention (condoms, injection drug use, e.g.). As well as, increase access to these. 
 
 
 

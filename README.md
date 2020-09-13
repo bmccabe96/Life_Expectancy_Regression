@@ -9,7 +9,7 @@ In this repository there are three notebooks:
 
 #  EDA and Visualization 
 
-
+![Image](life_expect_by_status.png?raw=true)
 
 # Models
 

@@ -9,11 +9,11 @@ In this repository there are four notebooks:
 
 #  EDA and Visualization 
 
-![Image](life_expect_by_status.png?raw=true)
+![Image](Images/life_expect_by_status.png?raw=true)
 
-![Image](life_exp_by_alc.png?raw=true)
+![Image](Images/life_exp_by_alc.png?raw=true)
 
-![Image](Schooling_Analysis.png?raw=true)
+![Image](Images/Schooling_Analysis.png?raw=true)
 
 
 # Models

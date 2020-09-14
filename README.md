@@ -11,10 +11,15 @@ In this repository there are four notebooks:
 
 ![Image](Images/life_expect_by_status.png?raw=true)
 
+As we can see, there is a clear distinction between life expectancy in developed and developing nations. Why might this be the case? What predictor variables have the greatest weight in increasing life expectancy?
+
 ![Image](Images/life_exp_by_alc.png?raw=true)
+
+In developing nations, it appears that as alcohol consumption increases, so does life expectancy. However, correlation does not equal causation. How could drinking more of a harmful substance increase life expectancy? Likely, there is strong correlation between alcohol and another predictor variable, such as GDP, income per capita, etc. This multicolinearity could make it seem that alcohol directly affects life expectancy, when in reality, it probably does not.
 
 ![Image](Images/Schooling_Analysis.png?raw=true)
 
+From the above graph, we can see that schooling is far more important in a developing country. Less schooling in a developing country has a strong impact on life expectancy, whereas in a developed country, it is less important. If we were modeling for prediction, we would likely feature engineer a column for this interaction. However, since we are modeling to show relations between predictors that are capable of being changed by a country's government and life expectancy, we will not include this in our model.
 
 # Models
 
